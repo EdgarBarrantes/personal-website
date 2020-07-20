@@ -6,7 +6,14 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Edgar Barrantes`,
+    siteTitleAlt: `Edgar Barrantes - Ideas and projects`,
+    siteHeadline: `Blog and portfolio`,
+    siteUrl: `https://edgarbarrrantes.com`,
+    siteDescription: `Edgar Barrantes is a web developer, joke writer and content creator, he's in the search of a symbiotic relationship with the ideas that inhabit him`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@edgarbarrantes`,
   },
   plugins: [
     {
@@ -25,12 +32,16 @@ module.exports = {
         ],
         externalLinks: [
           {
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/edgar-barrantes/`,
+          },
+          {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/edgarbarrantes`,
           },
           {
             name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            url: `https://www.instagram.com/edgarbbrais`,
           },
         ],
       },
