@@ -14,7 +14,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "deploy": "gatsby build && gh-pages --dotfiles true -d public -b master"
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "^2.4.0",
