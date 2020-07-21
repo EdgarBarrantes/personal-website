@@ -62,15 +62,6 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-adc9de8f9f5b97d29770.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
-/writting
-  Link: </webpack-runtime-c40c9491365f04192d0b.js>; rel=preload; as=script
-  Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
-  Link: </app-c35e7240a918f3f75294.js>; rel=preload; as=script
-  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-0405f02908415a0735f6.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-fb715c2efc1cc5cfc408.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/writting/page-data.json>; rel=preload; as=fetch; crossorigin
 /matt-ridley-on-naval
   Link: </webpack-runtime-c40c9491365f04192d0b.js>; rel=preload; as=script
   Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
@@ -98,15 +89,6 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-c60a315ce780f3cd884e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/book-references/page-data.json>; rel=preload; as=fetch; crossorigin
-/tags/description
-  Link: </webpack-runtime-c40c9491365f04192d0b.js>; rel=preload; as=script
-  Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
-  Link: </app-c35e7240a918f3f75294.js>; rel=preload; as=script
-  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-0405f02908415a0735f6.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-c60a315ce780f3cd884e.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tags/description/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/learning
   Link: </webpack-runtime-c40c9491365f04192d0b.js>; rel=preload; as=script
   Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
@@ -125,15 +107,6 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-c60a315ce780f3cd884e.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/rational-optimism/page-data.json>; rel=preload; as=fetch; crossorigin
-/tags/self-assesment
-  Link: </webpack-runtime-c40c9491365f04192d0b.js>; rel=preload; as=script
-  Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
-  Link: </app-c35e7240a918f3f75294.js>; rel=preload; as=script
-  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-0405f02908415a0735f6.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-c60a315ce780f3cd884e.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tags/self-assesment/page-data.json>; rel=preload; as=fetch; crossorigin
 /offline-plugin-app-shell-fallback/
   Link: </webpack-runtime-c40c9491365f04192d0b.js>; rel=preload; as=script
   Link: </framework-376edee25eb5f5cd8260.js>; rel=preload; as=script
