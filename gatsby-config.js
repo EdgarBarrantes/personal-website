@@ -6,11 +6,11 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitle: `Edgar Barrantes`,
-    siteTitleAlt: `Edgar Barrantes - Ideas and projects`,
+    siteTitle: `Edgar Barrantes - Ideas and projects`,
+    siteTitleAlt: `Edgar Barrantes`,
     siteHeadline: `Blog and portfolio`,
     siteUrl: `https://edgarbarrrantes.com`,
-    siteDescription: `Edgar Barrantes is a web developer, joke writer and content creator, he's in the search of a symbiotic relationship with the ideas that inhabit him`,
+    siteDescription: `Edgar Barrantes is a web developer, joke writer and content creator, he's in the search of a symbiotic relationship with the ideas that inhabit him, this is a garden for them to grow outside of his head`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@edgarbarrantes`,
@@ -56,9 +56,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Edgar Barrantes - Ideas and projects`,
+        short_name: `Edgar's Stuff`,
+        description: `In the search of a symbiotic relationship with the ideas that inhabit him, this is a garden for them to grow outside of his head`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
