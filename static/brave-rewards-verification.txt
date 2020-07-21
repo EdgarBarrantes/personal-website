@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: edgarbarrantes.com
+Token: 662650c2cf69419c992ff9d90281102634bad612e69f00f4f172e2f40c79cbe3
