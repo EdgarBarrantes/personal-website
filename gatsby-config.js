@@ -17,6 +17,26 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-embedder`,
+            options: {
+              customTransformers: [
+                // Your custom transformers
+              ],
+              services: {
+                // The service-specific options by the name of the service
+              },
+            },
+          },
+          // Other plugins here...
+          `gatsby-plugin-twitter`,
+        ],
+      },
+    },
+    {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
@@ -44,6 +64,7 @@ module.exports = {
             url: `https://www.instagram.com/edgarbbrais`,
           },
         ],
+        mdx: false,
       },
     },
     {
