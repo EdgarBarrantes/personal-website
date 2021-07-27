@@ -61,7 +61,7 @@ module.exports = {
           },
           {
             name: `Instagram`,
-            url: `https://www.instagram.com/edgarbbrais`,
+            url: `https://www.instagram.com/edgarbarrantesb`,
           },
         ],
         mdx: false,
